@@ -1,0 +1,130 @@
+{
+  "site.title": "Trò chơi đố vui Kinh Thánh Công giáo",
+  "site.subtitle": "Biết Chúa Giêsu · Học đức tin · Sống bác ái",
+
+  "nav.home": "Về trang chính",
+
+  "lang.label": "Ngôn ngữ",
+  "lang.zh-TW": "繁體中文",
+  "lang.vi-VN": "Tiếng Việt",
+  "lang.switch_to": "Chuyển sang {name}",
+
+  "mode.preschool": "Mầm non",
+  "mode.children": "Thiếu nhi",
+  "mode.teenagers": "Thiếu niên",
+  "mode.adults": "Người lớn",
+
+  "mode.preschool.theme": "Little Lamb",
+  "mode.children.theme": "Bible Adventure",
+  "mode.teenagers.theme": "Faith Challenge",
+  "mode.adults.theme": "Walk with Christ",
+
+  "mode.preschool.tagline": "Chúa Giêsu yêu con, con cũng yêu mọi người",
+  "mode.children.tagline": "Bước theo dấu chân Chúa Giêsu",
+  "mode.teenagers.tagline": "Để đức tin đi vào cuộc sống",
+  "mode.adults.tagline": "Đào sâu đức tin, sống theo Chúa Kitô",
+
+  "mode.preschool.age": "3–6 tuổi",
+  "mode.children.age": "7–12 tuổi",
+  "mode.teenagers.age": "13–18 tuổi",
+  "mode.adults.age": "Từ 19 tuổi",
+
+  "mode.meta.draw": "Số câu lần này: {count}",
+  "mode.meta.options": "Số lựa chọn: {count}",
+  "mode.meta.time": "Thời gian mỗi câu: {sec} giây",
+  "mode.meta.no_time": "Không giới hạn thời gian",
+
+  "rules.title": "Luật chơi",
+  "rules.preschool": "Ba lựa chọn lớn, có thể nghe đọc câu hỏi và từ từ suy nghĩ. Chọn xong sẽ thấy đáp án!",
+  "rules.children": "10 câu, bốn lựa chọn, mỗi câu 30 giây. Đi theo bản đồ từng câu một và gom sao nhé!",
+  "rules.teenagers": "10 câu, bốn lựa chọn, mỗi câu 25 giây. Trả lời đúng liên tiếp sẽ kích hoạt Combo, cùng chinh phục điểm cao nhất!",
+  "rules.adults": "15 câu, bốn lựa chọn, mỗi câu 30 giây. Kết thúc có phần xem lại toàn bộ câu sai.",
+
+  "button.start": "Bắt đầu",
+  "button.next": "Câu tiếp theo",
+  "button.play_again": "Chơi lại",
+  "button.back_home": "Về trang chính",
+  "button.retry": "Thử lại",
+  "button.speak": "Nghe đọc",
+  "button.stop_speak": "Dừng đọc",
+  "button.sound_on": "Bật âm thanh",
+  "button.sound_off": "Tắt âm thanh",
+  "button.show_image": "Hiện hình ảnh",
+  "button.hide_image": "Ẩn hình ảnh",
+
+  "progress.question_of": "Câu {n} / {total}",
+  "progress.score": "Điểm: {score}",
+  "progress.combo": "Combo ×{n}",
+
+  "timer.time_left": "Còn {sec} giây",
+  "timer.no_limit": "Không giới hạn",
+  "timer.timeout": "Hết giờ",
+
+  "feedback.correct": "Chính xác!",
+  "feedback.wrong": "Chưa đúng",
+  "feedback.timeout": "Hết giờ",
+  "feedback.correct_is": "Đáp án đúng: {answer}",
+
+  "summary.title": "Hoàn thành thử thách",
+  "summary.mode": "Chế độ: {name}",
+  "summary.total_score": "Tổng điểm: {score}",
+  "summary.accuracy": "Tỉ lệ đúng: {percent}%",
+  "summary.correct": "Đúng: {n}",
+  "summary.wrong": "Sai: {n}",
+  "summary.timeout": "Hết giờ: {n}",
+  "summary.total": "Tổng số câu: {n}",
+  "summary.stars": "Hạng sao: {stars}",
+  "summary.blessing": "Nguyện xin Thiên Chúa chúc lành cho bạn, chúng ta cùng lớn lên trong đức tin!",
+
+  "review.title": "Xem lại câu sai",
+  "review.question": "Câu hỏi",
+  "review.your_answer": "Bạn chọn: {answer}",
+  "review.correct_answer": "Đáp án đúng: {answer}",
+  "review.not_answered": "Hết giờ, chưa trả lời",
+  "review.empty": "Lần này không có câu sai, chúc mừng!",
+
+  "error.locale_failed": "Không tải được tệp ngôn ngữ, tạm dùng chữ mặc định.",
+  "error.questions_failed": "Không tải được câu hỏi, vui lòng thử lại sau.",
+  "error.image_missing": "Tạm thời không hiển thị được hình ảnh",
+  "error.speech_unavailable": "Thiết bị này không hỗ trợ đọc giọng nói",
+  "error.storage_unavailable": "Không lưu được tuỳ chọn, trò chơi vẫn chơi được.",
+
+  "a11y.lang_switch": "Chuyển ngôn ngữ",
+  "a11y.speak_question": "Nghe đọc câu hỏi",
+  "a11y.speak_option": "Nghe đọc lựa chọn {n}",
+  "a11y.progress": "Tiến trình trả lời",
+  "a11y.feedback": "Phản hồi câu trả lời",
+  "a11y.timer": "Đồng hồ đếm ngược",
+  "a11y.result": "Kết quả thử thách",
+
+  "confirm.leave_in_progress": "Rời khỏi sẽ mất tiến trình hiện tại, bạn chắc chứ?",
+
+  "status.bank_loaded": "Đã tải câu hỏi: {count} câu",
+  "status.bank_loading": "Đang tải câu hỏi…",
+
+  "home.features.title": "Điểm nổi bật",
+  "home.features.bilingual": "Chuyển đổi 繁體中文 / Tiếng Việt",
+  "home.features.modes": "Bốn chế độ theo lứa tuổi, độc lập",
+  "home.features.catholic": "240 câu đố Kinh Thánh Công giáo",
+  "home.features.offline": "Trang tĩnh thuần, không cần cài đặt",
+
+  "prefs.music": "Nhạc nền",
+  "prefs.sound": "Âm thanh",
+  "prefs.speech": "Đọc",
+  "prefs.image": "Hình ảnh",
+  "prefs.image_mode.after": "Sau khi trả lời",
+  "prefs.image_mode.before": "Trước khi trả lời",
+  "prefs.image_mode.off": "Tắt",
+  "prefs.state_on": "Bật",
+  "prefs.state_off": "Tắt",
+  "prefs.aria.music": "Bật/tắt nhạc nền (hiện: {state})",
+  "prefs.aria.sound": "Bật/tắt âm thanh (hiện: {state})",
+  "prefs.aria.speech": "Bật/tắt đọc (hiện: {state})",
+  "prefs.aria.image": "Hiển thị hình ảnh (hiện: {mode})",
+
+  "image.alt_generic": "Hình minh hoạ câu hỏi",
+  "image.alt_answered": "Hình minh hoạ câu hỏi",
+  "image.missing": "Hình ảnh chưa có",
+
+  "error.speech_lang_missing": "Không tìm thấy giọng đọc {lang}, bạn vẫn có thể chơi."
+}

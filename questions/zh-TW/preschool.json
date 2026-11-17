@@ -1,0 +1,332 @@
+[
+  {
+    "id": "P001",
+    "level": "preschool",
+    "question": "耶穌的媽媽是誰？",
+    "options": [
+      "瑪利亞",
+      "老師",
+      "天使"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P002",
+    "level": "preschool",
+    "question": "誰是耶穌的養父？",
+    "options": [
+      "伯多祿",
+      "若瑟",
+      "梅瑟"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P003",
+    "level": "preschool",
+    "question": "小耶穌出生後被放在哪裡？",
+    "options": [
+      "沙發",
+      "書桌",
+      "馬槽"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P004",
+    "level": "preschool",
+    "question": "哪個節日是慶祝耶穌誕生？",
+    "options": [
+      "聖誕節",
+      "中秋節",
+      "端午節"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P005",
+    "level": "preschool",
+    "question": "耶穌喜歡小朋友嗎？",
+    "options": [
+      "不喜歡",
+      "喜歡",
+      "不理會"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P006",
+    "level": "preschool",
+    "question": "我們可以在哪裡參加彌撒？",
+    "options": [
+      "遊樂園",
+      "動物園",
+      "聖堂"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P007",
+    "level": "preschool",
+    "question": "我們祈禱時是在和誰說話？",
+    "options": [
+      "天主",
+      "玩具",
+      "石頭"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P008",
+    "level": "preschool",
+    "question": "我們吃飯前可以做什麼？",
+    "options": [
+      "大叫",
+      "感謝天主",
+      "生氣"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P009",
+    "level": "preschool",
+    "question": "朋友跌倒了，我們該怎麼做？",
+    "options": [
+      "嘲笑他",
+      "跑走",
+      "幫助他"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P010",
+    "level": "preschool",
+    "question": "耶穌教我們怎麼對待別人？",
+    "options": [
+      "愛別人",
+      "欺負別人",
+      "討厭別人"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P011",
+    "level": "preschool",
+    "question": "我們有玩具時，可以怎麼做？",
+    "options": [
+      "全部藏起來",
+      "和朋友分享",
+      "搶別人的"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P012",
+    "level": "preschool",
+    "question": "誰創造了天地萬物？",
+    "options": [
+      "超人",
+      "國王",
+      "天主"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P013",
+    "level": "preschool",
+    "question": "我們做錯事時，應該怎麼做？",
+    "options": [
+      "道歉",
+      "說謊",
+      "怪別人"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P014",
+    "level": "preschool",
+    "question": "耶穌是我們的什麼？",
+    "options": [
+      "敵人",
+      "救主",
+      "陌生人"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P015",
+    "level": "preschool",
+    "question": "耶穌在哪裡為我們犧牲生命？",
+    "options": [
+      "大樹下",
+      "船上",
+      "十字架上"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P016",
+    "level": "preschool",
+    "question": "復活節是慶祝什麼？",
+    "options": [
+      "耶穌復活",
+      "耶穌出生",
+      "放暑假"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P017",
+    "level": "preschool",
+    "question": "我們畫十字聖號時，會提到聖父、聖子和誰？",
+    "options": [
+      "天使",
+      "聖神",
+      "老師"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P018",
+    "level": "preschool",
+    "question": "哪一本書記載了耶穌的故事？",
+    "options": [
+      "漫畫書",
+      "故事書",
+      "聖經"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P019",
+    "level": "preschool",
+    "question": "耶穌是善牧，善牧會照顧什麼？",
+    "options": [
+      "羊",
+      "老虎",
+      "恐龍"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P020",
+    "level": "preschool",
+    "question": "我們應該怎麼對待爸爸媽媽？",
+    "options": [
+      "大聲責罵",
+      "尊敬和愛護",
+      "不理他們"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P021",
+    "level": "preschool",
+    "question": "耶穌曾用五個餅和什麼餵飽許多人？",
+    "options": [
+      "糖果",
+      "蘋果",
+      "兩條魚"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P022",
+    "level": "preschool",
+    "question": "看到別人傷心時，我們可以怎麼做？",
+    "options": [
+      "安慰他",
+      "嘲笑他",
+      "欺負他"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P023",
+    "level": "preschool",
+    "question": "耶穌曾使風浪怎麼樣？",
+    "options": [
+      "變得更大",
+      "平靜下來",
+      "變成雪"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P024",
+    "level": "preschool",
+    "question": "天使向誰報告將要生下耶穌的消息？",
+    "options": [
+      "公主",
+      "老師",
+      "瑪利亞"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P025",
+    "level": "preschool",
+    "question": "耶穌希望我們說什麼樣的話？",
+    "options": [
+      "誠實的話",
+      "騙人的話",
+      "傷人的話"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P026",
+    "level": "preschool",
+    "question": "我們可以在什麼時候祈禱？",
+    "options": [
+      "只能早上",
+      "任何時候",
+      "只能晚上"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P027",
+    "level": "preschool",
+    "question": "我們應該怎麼照顧天主創造的大自然？",
+    "options": [
+      "亂丟垃圾",
+      "隨意破壞",
+      "愛護環境"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P028",
+    "level": "preschool",
+    "question": "別人向我們道歉時，耶穌希望我們怎麼做？",
+    "options": [
+      "原諒他",
+      "報復他",
+      "嘲笑他"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P029",
+    "level": "preschool",
+    "question": "我們在祈禱結束時常說什麼？",
+    "options": [
+      "再見",
+      "阿們",
+      "晚安"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P030",
+    "level": "preschool",
+    "question": "天主希望我們成為怎樣的人？",
+    "options": [
+      "自私的人",
+      "愛欺負人的人",
+      "有愛心的人"
+    ],
+    "correctIndex": 2
+  }
+]

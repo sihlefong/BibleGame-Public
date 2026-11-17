@@ -1,0 +1,332 @@
+[
+  {
+    "id": "P001",
+    "level": "preschool",
+    "question": "Mẹ của Chúa Giêsu là ai?",
+    "options": [
+      "Đức Maria",
+      "Giáo viên",
+      "Thiên thần"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P002",
+    "level": "preschool",
+    "question": "Ai là cha nuôi của Chúa Giêsu?",
+    "options": [
+      "Phêrô",
+      "Giuse",
+      "Môsê"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P003",
+    "level": "preschool",
+    "question": "Sau khi chào đời, Chúa Giêsu Hài Đồng được đặt ở đâu?",
+    "options": [
+      "Ghế sofa",
+      "Bàn học",
+      "Máng cỏ"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P004",
+    "level": "preschool",
+    "question": "Ngày lễ nào mừng Chúa Giêsu ra đời?",
+    "options": [
+      "Lễ Giáng Sinh",
+      "Tết Trung Thu",
+      "Tết Đoan Ngọ"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P005",
+    "level": "preschool",
+    "question": "Chúa Giêsu có yêu thương các em nhỏ không?",
+    "options": [
+      "Không",
+      "Có",
+      "Không quan tâm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P006",
+    "level": "preschool",
+    "question": "Chúng ta có thể tham dự Thánh lễ ở đâu?",
+    "options": [
+      "Khu vui chơi",
+      "Sở thú",
+      "Nhà thờ"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P007",
+    "level": "preschool",
+    "question": "Khi cầu nguyện, chúng ta trò chuyện với ai?",
+    "options": [
+      "Thiên Chúa",
+      "Đồ chơi",
+      "Hòn đá"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P008",
+    "level": "preschool",
+    "question": "Trước khi ăn, chúng ta có thể làm gì?",
+    "options": [
+      "La hét",
+      "Tạ ơn Thiên Chúa",
+      "Nổi giận"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P009",
+    "level": "preschool",
+    "question": "Khi bạn bị ngã, chúng ta nên làm gì?",
+    "options": [
+      "Cười nhạo bạn",
+      "Bỏ chạy",
+      "Giúp bạn"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P010",
+    "level": "preschool",
+    "question": "Chúa Giêsu dạy chúng ta đối xử với người khác thế nào?",
+    "options": [
+      "Yêu thương mọi người",
+      "Bắt nạt người khác",
+      "Ghét người khác"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P011",
+    "level": "preschool",
+    "question": "Khi có đồ chơi, chúng ta có thể làm gì?",
+    "options": [
+      "Giấu hết đi",
+      "Chia sẻ với bạn bè",
+      "Giành đồ của người khác"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P012",
+    "level": "preschool",
+    "question": "Ai đã tạo dựng trời đất và muôn vật?",
+    "options": [
+      "Siêu nhân",
+      "Nhà vua",
+      "Thiên Chúa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P013",
+    "level": "preschool",
+    "question": "Khi làm điều sai, chúng ta nên làm gì?",
+    "options": [
+      "Xin lỗi",
+      "Nói dối",
+      "Đổ lỗi cho người khác"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P014",
+    "level": "preschool",
+    "question": "Chúa Giêsu là ai đối với chúng ta?",
+    "options": [
+      "Kẻ thù",
+      "Đấng Cứu Độ",
+      "Người xa lạ"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P015",
+    "level": "preschool",
+    "question": "Chúa Giêsu đã hy sinh mạng sống vì chúng ta ở đâu?",
+    "options": [
+      "Dưới gốc cây",
+      "Trên thuyền",
+      "Trên thập giá"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P016",
+    "level": "preschool",
+    "question": "Lễ Phục Sinh mừng sự kiện gì?",
+    "options": [
+      "Chúa Giêsu sống lại",
+      "Chúa Giêsu ra đời",
+      "Nghỉ hè"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P017",
+    "level": "preschool",
+    "question": "Khi làm dấu thánh giá, chúng ta nhắc đến Chúa Cha, Chúa Con và ai?",
+    "options": [
+      "Thiên thần",
+      "Chúa Thánh Thần",
+      "Giáo viên"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P018",
+    "level": "preschool",
+    "question": "Cuốn sách nào ghi lại những câu chuyện về Chúa Giêsu?",
+    "options": [
+      "Truyện tranh",
+      "Sách truyện",
+      "Kinh Thánh"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P019",
+    "level": "preschool",
+    "question": "Chúa Giêsu là Mục Tử Nhân Lành. Người mục tử chăm sóc con gì?",
+    "options": [
+      "Con chiên",
+      "Con hổ",
+      "Khủng long"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P020",
+    "level": "preschool",
+    "question": "Chúng ta nên đối xử với cha mẹ thế nào?",
+    "options": [
+      "La mắng",
+      "Kính trọng và yêu thương",
+      "Không quan tâm"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P021",
+    "level": "preschool",
+    "question": "Chúa Giêsu đã dùng năm chiếc bánh và gì nữa để nuôi no nhiều người?",
+    "options": [
+      "Kẹo",
+      "Táo",
+      "Hai con cá"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P022",
+    "level": "preschool",
+    "question": "Khi thấy người khác buồn, chúng ta có thể làm gì?",
+    "options": [
+      "An ủi họ",
+      "Cười nhạo họ",
+      "Bắt nạt họ"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P023",
+    "level": "preschool",
+    "question": "Chúa Giêsu đã làm cho gió và sóng biển thế nào?",
+    "options": [
+      "Mạnh hơn",
+      "Lặng yên",
+      "Biến thành tuyết"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P024",
+    "level": "preschool",
+    "question": "Thiên thần báo tin cho ai rằng người ấy sẽ sinh Chúa Giêsu?",
+    "options": [
+      "Công chúa",
+      "Giáo viên",
+      "Đức Maria"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P025",
+    "level": "preschool",
+    "question": "Chúa Giêsu muốn chúng ta nói những lời thế nào?",
+    "options": [
+      "Lời chân thật",
+      "Lời nói dối",
+      "Lời làm tổn thương người khác"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P026",
+    "level": "preschool",
+    "question": "Chúng ta có thể cầu nguyện khi nào?",
+    "options": [
+      "Chỉ buổi sáng",
+      "Bất cứ lúc nào",
+      "Chỉ buổi tối"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P027",
+    "level": "preschool",
+    "question": "Chúng ta nên chăm sóc thiên nhiên do Thiên Chúa tạo dựng thế nào?",
+    "options": [
+      "Vứt rác bừa bãi",
+      "Phá hoại tùy ý",
+      "Bảo vệ môi trường"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "P028",
+    "level": "preschool",
+    "question": "Khi người khác xin lỗi, Chúa Giêsu muốn chúng ta làm gì?",
+    "options": [
+      "Tha thứ cho họ",
+      "Trả thù họ",
+      "Cười nhạo họ"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "P029",
+    "level": "preschool",
+    "question": "Khi kết thúc lời cầu nguyện, chúng ta thường nói gì?",
+    "options": [
+      "Tạm biệt",
+      "Amen",
+      "Chúc ngủ ngon"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "P030",
+    "level": "preschool",
+    "question": "Thiên Chúa muốn chúng ta trở thành người thế nào?",
+    "options": [
+      "Người ích kỷ",
+      "Người hay bắt nạt",
+      "Người giàu lòng yêu thương"
+    ],
+    "correctIndex": 2
+  }
+]

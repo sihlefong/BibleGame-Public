@@ -1,0 +1,362 @@
+[
+  {
+    "id": "A001",
+    "level": "adults",
+    "question": "“Emmanuen” có nghĩa là gì?",
+    "options": [
+      "Thiên Chúa là ánh sáng",
+      "Thiên Chúa là bình an",
+      "Thiên Chúa ở cùng chúng ta",
+      "Thiên Chúa là sức mạnh"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "A002",
+    "level": "adults",
+    "question": "Câu “Ngôi Lời đã trở nên người phàm” ở đầu Tin Mừng theo thánh Gioan có nghĩa là gì?",
+    "options": [
+      "Ngôi Hai Thiên Chúa nhập thể làm người",
+      "Việc biên soạn Kinh Thánh",
+      "Chúa Thánh Thần hiện xuống",
+      "Việc tạo dựng loài người"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "A003",
+    "level": "adults",
+    "question": "Tín điều đúng về Thiên Chúa Ba Ngôi là gì?",
+    "options": [
+      "Ba Thiên Chúa khác nhau",
+      "Thiên Chúa có ba hình dạng",
+      "Ba Thiên Chúa luân phiên cai trị",
+      "Một Thiên Chúa duy nhất trong Ba Ngôi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "A004",
+    "level": "adults",
+    "question": "Giáo hội Công giáo hiểu thế nào về thiên tính và nhân tính của Chúa Giêsu Kitô?",
+    "options": [
+      "Chỉ có thiên tính",
+      "Một Ngôi Vị duy nhất có trọn vẹn thiên tính và nhân tính",
+      "Một nửa là Thiên Chúa, một nửa là người",
+      "Chỉ có nhân tính"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "A005",
+    "level": "adults",
+    "question": "Theo Tin Mừng Gioan, phép lạ Chúa Giêsu thực hiện tại tiệc cưới Cana có ý nghĩa gì?",
+    "options": [
+      "Bày tỏ sự giàu có của Ngài",
+      "Trình diễn kỹ năng sống",
+      "Bày tỏ vinh quang của Ngài, để các môn đệ tin vào Ngài",
+      "Thay thế định chế hôn nhân"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "A006",
+    "level": "adults",
+    "question": "Khi Chúa Giêsu hiển dung, hai nhân vật nào trong Cựu Ước xuất hiện?",
+    "options": [
+      "Môsê và Êlia",
+      "Ápraham và Ixaác",
+      "Đavít và Salômôn",
+      "Ađam và Nôê"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "A007",
+    "level": "adults",
+    "question": "Trong sứ vụ rao giảng trên trần gian, Chúa Giêsu chủ yếu loan báo điều gì?",
+    "options": [
+      "Cách có được của cải",
+      "Cách trở thành vua",
+      "Cách thành lập quân đội",
+      "Nước Thiên Chúa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "A008",
+    "level": "adults",
+    "question": "Chúa Giêsu nói với ông Nicôđêmô rằng người ta phải được sinh ra bởi điều gì để vào Nước Thiên Chúa?",
+    "options": [
+      "Kiến thức và sự khôn ngoan",
+      "Nước và Thần Khí",
+      "Của cải và quyền lực",
+      "Luật pháp và địa vị"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "A009",
+    "level": "adults",
+    "question": "Nước hằng sống mà Chúa Giêsu nhắc đến khi trò chuyện với người phụ nữ Samari có ý nghĩa gì?",
+    "options": [
+      "Nước giếng bình thường",
+      "Loại bỏ mọi khó khăn trong cuộc sống",
+      "Ân ban dẫn đến sự sống đời đời",
+      "Chữa khỏi mọi bệnh tật thể xác"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "A010",
+    "level": "adults",
+    "question": "Sự khác biệt lớn nhất giữa người mục tử nhân lành và người làm thuê là gì?",
+    "options": [
+      "Người mục tử nhân lành hy sinh mạng sống vì đoàn chiên",
+      "Người mục tử nhân lành có nhiều của cải hơn",
+      "Người mục tử nhân lành không gặp nguy hiểm",
+      "Người mục tử nhân lành chỉ chăm sóc những con chiên khỏe mạnh"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "A011",
+    "level": "adults",
+    "question": "Hình ảnh cây nho và cành nho chủ yếu nhấn mạnh điều gì?",
+    "options": [
+      "Tầm quan trọng của nông nghiệp",
+      "Con người phải dựa vào của cải",
+      "Con người nên sống độc lập với Thiên Chúa",
+      "Các môn đệ phải ở lại trong Chúa Kitô"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "A012",
+    "level": "adults",
+    "question": "Chúa Giêsu đã thiết lập bí tích nào trong Bữa Tiệc Ly?",
+    "options": [
+      "Bí tích Hôn Phối",
+      "Bí tích Thánh Thể",
+      "Bí tích Thêm Sức",
+      "Bí tích Xức Dầu Bệnh Nhân"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "A013",
+    "level": "adults",
+    "question": "Mầu nhiệm Vượt Qua của Chúa Giêsu chủ yếu bao gồm những gì?",
+    "options": [
+      "Giáng sinh và thời thơ ấu",
+      "Chịu phép rửa và ăn chay trong hoang địa",
+      "Cuộc khổ nạn, cái chết, sự phục sinh và lên trời vinh hiển",
+      "Rao giảng và chữa bệnh"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "A014",
+    "level": "adults",
+    "question": "Thánh lễ có liên hệ thế nào với hy tế thập giá của Chúa Kitô?",
+    "options": [
+      "Làm cho cùng một hy tế của Chúa Kitô hiện diện cách bí tích",
+      "Mỗi lần lại đóng đinh Chúa Giêsu",
+      "Chỉ là một buổi nói chuyện về lịch sử",
+      "Hai điều hoàn toàn không liên quan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "A015",
+    "level": "adults",
+    "question": "Chúa Giêsu nói: “Anh em là ánh sáng cho trần gian.” Lời này khuyến khích chúng ta làm gì?",
+    "options": [
+      "Che giấu đức tin của mình",
+      "Theo đuổi danh tiếng cá nhân",
+      "Chỉ quan tâm đến bản thân",
+      "Làm chứng cho Thiên Chúa bằng những việc tốt lành"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "A016",
+    "level": "adults",
+    "question": "Ba bí tích nào được gọi chung là các bí tích khai tâm Kitô giáo?",
+    "options": [
+      "Rửa Tội, Hôn Phối, Truyền Chức Thánh",
+      "Rửa Tội, Thêm Sức, Thánh Thể",
+      "Hòa Giải, Hôn Phối, Truyền Chức Thánh",
+      "Thêm Sức, Hôn Phối, Xức Dầu Bệnh Nhân"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "A017",
+    "level": "adults",
+    "question": "Ba bí tích nào ghi ấn tín thiêng liêng không thể xóa nhòa?",
+    "options": [
+      "Rửa Tội, Thánh Thể, Hôn Phối",
+      "Hòa Giải, Thánh Thể, Hôn Phối",
+      "Rửa Tội, Thêm Sức, Truyền Chức Thánh",
+      "Rửa Tội, Hôn Phối, Xức Dầu Bệnh Nhân"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "A018",
+    "level": "adults",
+    "question": "Ý nghĩa chính của Bí tích Xức Dầu Bệnh Nhân là gì?",
+    "options": [
+      "Ban ân sủng, sự an ủi và sức mạnh cho người bệnh",
+      "Bảo đảm mọi bệnh tật được chữa khỏi ngay lập tức",
+      "Chỉ được cử hành sau khi qua đời",
+      "Thay thế việc điều trị y khoa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "A019",
+    "level": "adults",
+    "question": "Ý nghĩa đúng của tín điều Đức Mẹ Vô Nhiễm Nguyên Tội là gì?",
+    "options": [
+      "Chúa Giêsu không có cha ruột",
+      "Đức Mẹ không cần ơn cứu độ của Thiên Chúa",
+      "Đức Mẹ chỉ được khỏi tội nguyên tổ sau khi sinh ra",
+      "Đức Maria được gìn giữ khỏi tội nguyên tổ ngay từ giây phút đầu tiên được thụ thai"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "A020",
+    "level": "adults",
+    "question": "Tín điều Đức Mẹ Hồn Xác Lên Trời có nghĩa là gì?",
+    "options": [
+      "Đức Mẹ tự mình lên trời bằng sức riêng",
+      "Sau khi kết thúc cuộc đời trần thế, Đức Mẹ được đưa cả hồn lẫn xác vào vinh quang thiên quốc",
+      "Chỉ linh hồn Đức Mẹ được lên trời",
+      "Đức Mẹ ở lại trần gian mãi mãi"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "A021",
+    "level": "adults",
+    "question": "Trong Công giáo, việc tôn kính Đức Mẹ khác với việc thờ phượng Thiên Chúa thế nào?",
+    "options": [
+      "Hai việc hoàn toàn giống nhau",
+      "Đức Mẹ cao hơn Thiên Chúa",
+      "Chỉ Thiên Chúa mới được thờ phượng, còn Đức Mẹ được tôn kính cách đặc biệt",
+      "Đức Mẹ có bản tính Thiên Chúa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "A022",
+    "level": "adults",
+    "question": "Theo đức tin Công giáo, mặc khải của Thiên Chúa được truyền lại qua đâu?",
+    "options": [
+      "Thánh Kinh và Thánh Truyền",
+      "Chỉ qua những giấc mơ cá nhân",
+      "Tập quán xã hội",
+      "Các lý thuyết khoa học"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "A023",
+    "level": "adults",
+    "question": "Bốn đặc tính của Giáo hội là gì?",
+    "options": [
+      "Giàu có, hùng mạnh, tự do, hòa bình",
+      "Đức tin, đức cậy, đức mến, công bằng",
+      "Khôn ngoan, tiết độ, can đảm, công bằng",
+      "Duy nhất, thánh thiện, công giáo và tông truyền"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "A024",
+    "level": "adults",
+    "question": "Vào ngày Thứ Sáu Tuần Thánh, Giáo hội Công giáo chủ yếu tưởng niệm điều gì?",
+    "options": [
+      "Chúa Giêsu giáng sinh",
+      "Cuộc khổ nạn và cái chết của Chúa Giêsu",
+      "Chúa Giêsu chịu phép rửa",
+      "Chúa Giêsu lên trời"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "A025",
+    "level": "adults",
+    "question": "Theo Công giáo, ân sủng được hiểu căn bản là gì?",
+    "options": [
+      "Đặc quyền có được nhờ của cải",
+      "Thành quả hoàn toàn do sức riêng của con người",
+      "Sự trợ giúp và ân ban nhưng không của Thiên Chúa",
+      "Sự trao đổi thương mại giữa con người và Thiên Chúa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "A026",
+    "level": "adults",
+    "question": "Con người nên đáp lại lòng thương xót của Thiên Chúa bằng thái độ nào?",
+    "options": [
+      "Sám hối và tín thác vào Thiên Chúa",
+      "Tùy ý phạm tội vì Thiên Chúa giàu lòng thương xót",
+      "Không cần thừa nhận lỗi lầm",
+      "Mãi mãi lẩn tránh Thiên Chúa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "A027",
+    "level": "adults",
+    "question": "Luyện ngục là gì?",
+    "options": [
+      "Một tên gọi khác của hỏa ngục",
+      "Việc đầu thai sau khi chết",
+      "Nơi những người đã qua đời chịu hình phạt đời đời",
+      "Sự thanh luyện cuối cùng dành cho những người đã được bảo đảm ơn cứu độ đời đời"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "A028",
+    "level": "adults",
+    "question": "Khi Chúa Giêsu phục sinh đồng hành với các môn đệ trên đường Emmau, họ nhận ra Ngài qua hành động nào?",
+    "options": [
+      "Đánh cá",
+      "Bẻ bánh",
+      "Leo núi",
+      "Làm phép rửa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "A029",
+    "level": "adults",
+    "question": "Chúa Giêsu phục sinh hỏi ông Phêrô ba lần có yêu mến Ngài không và trao cho ông sứ mạng gì?",
+    "options": [
+      "Xây cung điện",
+      "Trở thành thương gia giàu có",
+      "Chăn dắt đoàn chiên của Ngài",
+      "Cai quản đế quốc Rôma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "A030",
+    "level": "adults",
+    "question": "Theo giáo huấn về cuộc phán xét chung trong Tin Mừng Mátthêu, Chúa Kitô coi trọng cách chúng ta đối xử với ai?",
+    "options": [
+      "Những người anh em bé nhỏ nhất",
+      "Những người có quyền lực",
+      "Những người giàu có",
+      "Những người nổi tiếng"
+    ],
+    "correctIndex": 0
+  }
+]

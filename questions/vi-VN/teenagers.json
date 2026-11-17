@@ -1,0 +1,362 @@
+[
+  {
+    "id": "T001",
+    "level": "teenagers",
+    "question": "Chúa Giêsu khoảng bao nhiêu tuổi khi bắt đầu sứ vụ công khai?",
+    "options": [
+      "18 tuổi",
+      "20 tuổi",
+      "25 tuổi",
+      "30 tuổi"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T002",
+    "level": "teenagers",
+    "question": "Ai đã cám dỗ Chúa Giêsu trong hoang địa?",
+    "options": [
+      "Các Tông đồ",
+      "Ma quỷ",
+      "Các kinh sư",
+      "Lính Rôma"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T003",
+    "level": "teenagers",
+    "question": "Chúa Giêsu đáp lại thế nào khi ma quỷ cám dỗ Ngài biến đá thành bánh?",
+    "options": [
+      "Con người chỉ cần thức ăn",
+      "Con người không cần cầu nguyện",
+      "Người ta sống không chỉ nhờ cơm bánh",
+      "Con người phải theo đuổi của cải"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T004",
+    "level": "teenagers",
+    "question": "Chúa Giêsu thường dùng cách nào để giảng dạy dân chúng?",
+    "options": [
+      "Các dụ ngôn",
+      "Biểu diễn múa",
+      "Thi vẽ tranh",
+      "Biểu diễn ảo thuật"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T005",
+    "level": "teenagers",
+    "question": "Chúa Giêsu gọi các môn đệ là muối cho đời và là gì nữa?",
+    "options": [
+      "Mây trên trời",
+      "Cá dưới biển",
+      "Cây trên núi",
+      "Ánh sáng cho trần gian"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T006",
+    "level": "teenagers",
+    "question": "Chúa Giêsu dạy chúng ta đối xử với kẻ thù thế nào?",
+    "options": [
+      "Xa lánh mọi người",
+      "Yêu kẻ thù và cầu nguyện cho những kẻ bách hại mình",
+      "Lên kế hoạch trả thù",
+      "Răng đền răng"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T007",
+    "level": "teenagers",
+    "question": "Chúa Giêsu nói ai có phúc vì họ sẽ được gọi là con Thiên Chúa?",
+    "options": [
+      "Người giàu có",
+      "Người có quyền lực",
+      "Người xây dựng hòa bình",
+      "Người thông minh nhất"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T008",
+    "level": "teenagers",
+    "question": "Mầu nhiệm Thiên Chúa Ba Ngôi chỉ điều gì?",
+    "options": [
+      "Chúa Cha, Chúa Con và Chúa Thánh Thần",
+      "Chúa Giêsu, Đức Maria và thánh Giuse",
+      "Ba thiên thần",
+      "Ba Thiên Chúa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T009",
+    "level": "teenagers",
+    "question": "Đức tin Công giáo tuyên xưng Chúa Giêsu Kitô là ai?",
+    "options": [
+      "Chỉ là một ngôn sứ",
+      "Chỉ là một người thầy",
+      "Chỉ là một thiên thần",
+      "Là Thiên Chúa thật và là người thật"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T010",
+    "level": "teenagers",
+    "question": "Bí tích nào củng cố cách đặc biệt ân sủng của Bí tích Rửa Tội?",
+    "options": [
+      "Hôn Phối",
+      "Thêm Sức",
+      "Truyền Chức Thánh",
+      "Xức Dầu Bệnh Nhân"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T011",
+    "level": "teenagers",
+    "question": "Khi chúng ta phạm lỗi, Thiên Chúa muốn chúng ta làm gì?",
+    "options": [
+      "Che giấu lỗi lầm",
+      "Đổ lỗi cho người khác",
+      "Thành tâm sám hối",
+      "Tiếp tục phạm lỗi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T012",
+    "level": "teenagers",
+    "question": "Theo đức tin Công giáo, Thánh Thể là gì?",
+    "options": [
+      "Chúa Kitô hiện diện thực sự",
+      "Thức ăn thông thường",
+      "Chỉ là một vật kỷ niệm",
+      "Vật trang trí"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T013",
+    "level": "teenagers",
+    "question": "Qua việc rửa chân cho các môn đệ, Chúa Giêsu chủ yếu dạy điều gì?",
+    "options": [
+      "Cách giữ vệ sinh",
+      "Cách đạt được quyền lực",
+      "Cách trở thành ông chủ",
+      "Khiêm nhường và phục vụ"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T014",
+    "level": "teenagers",
+    "question": "Khi người khác bắt nạt bạn học trên mạng, hành động nào phù hợp với lời dạy của Chúa Kitô?",
+    "options": [
+      "Cùng cười nhạo",
+      "Bảo vệ nạn nhân và tìm sự giúp đỡ",
+      "Chia sẻ những bình luận gây tổn thương",
+      "Giả vờ không thấy"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T015",
+    "level": "teenagers",
+    "question": "Khi bạn rủ em gian lận trong kỳ thi, em nên làm gì?",
+    "options": [
+      "Giúp bạn gian lận",
+      "Giả vờ không biết",
+      "Thành thật từ chối",
+      "Cùng gian lận"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T016",
+    "level": "teenagers",
+    "question": "Khi dạy chúng ta tha thứ cho người khác, Chúa Giêsu nhấn mạnh điều gì?",
+    "options": [
+      "Không nên giới hạn số lần tha thứ",
+      "Chỉ tha thứ một lần",
+      "Chỉ tha thứ cho người thân",
+      "Không bao giờ cần tha thứ"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T017",
+    "level": "teenagers",
+    "question": "Dụ ngôn người Samari nhân hậu dạy chúng ta điều gì?",
+    "options": [
+      "Chỉ giúp người quen",
+      "Chỉ chăm sóc người giàu",
+      "Chỉ giúp người cùng dân tộc",
+      "Đối xử với người gặp khó khăn bằng lòng thương xót"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T018",
+    "level": "teenagers",
+    "question": "Chúa Giêsu ăn chay bốn mươi ngày trong hoang địa chủ yếu để chuẩn bị cho điều gì?",
+    "options": [
+      "Dự tiệc cưới",
+      "Bắt đầu sứ vụ công khai",
+      "Tổ chức cuộc thi",
+      "Tìm kho báu"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T019",
+    "level": "teenagers",
+    "question": "Tông đồ nào được Chúa Giêsu gọi là Đá?",
+    "options": [
+      "Gioan",
+      "Phaolô",
+      "Phêrô",
+      "Tôma"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T020",
+    "level": "teenagers",
+    "question": "Lễ Chúa Thánh Thần Hiện Xuống chủ yếu kỷ niệm điều gì?",
+    "options": [
+      "Chúa Thánh Thần ngự xuống trên các môn đệ",
+      "Chúa Giêsu ra đời",
+      "Chúa Giêsu chịu phép rửa",
+      "Đức Mẹ được đưa lên trời"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T021",
+    "level": "teenagers",
+    "question": "Sách nào sau đây không thuộc bốn sách Tin Mừng?",
+    "options": [
+      "Tin Mừng theo thánh Mátthêu",
+      "Tin Mừng theo thánh Máccô",
+      "Tin Mừng theo thánh Gioan",
+      "Công vụ Tông đồ"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T022",
+    "level": "teenagers",
+    "question": "“Tin Mừng” có nghĩa là gì?",
+    "options": [
+      "Luật pháp",
+      "Tin vui",
+      "Lịch sử",
+      "Thơ ca"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T023",
+    "level": "teenagers",
+    "question": "Kinh Mân Côi chủ yếu giúp chúng ta làm gì?",
+    "options": [
+      "Dự đoán tương lai",
+      "Có được của cải",
+      "Suy niệm các mầu nhiệm trong cuộc đời Chúa Kitô",
+      "Trốn tránh trách nhiệm"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T024",
+    "level": "teenagers",
+    "question": "Chúa Giêsu dạy chúng ta đừng chỉ tích trữ kho tàng dưới đất, mà hãy tích trữ ở đâu?",
+    "options": [
+      "Trên trời",
+      "Trong ngân hàng",
+      "Trong cung điện",
+      "Trong hang đá"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T025",
+    "level": "teenagers",
+    "question": "Khi một người bạn nói rằng mình không có giá trị, cách đáp lại nào phù hợp với đức tin?",
+    "options": [
+      "Đồng ý với bạn",
+      "So sánh điểm số của bạn",
+      "Phớt lờ bạn",
+      "Đồng hành và khẳng định phẩm giá của bạn"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T026",
+    "level": "teenagers",
+    "question": "Mùa Chay chủ yếu giúp các tín hữu chuẩn bị mừng lễ nào?",
+    "options": [
+      "Lễ Giáng Sinh",
+      "Lễ Phục Sinh",
+      "Lễ Chúa Thánh Thần Hiện Xuống",
+      "Lễ Các Thánh"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T027",
+    "level": "teenagers",
+    "question": "Mùa Vọng chủ yếu chuẩn bị cho điều gì?",
+    "options": [
+      "Chúa Thánh Thần hiện xuống",
+      "Lễ Các Thánh",
+      "Mừng Chúa Kitô giáng sinh và mong đợi Ngài lại đến",
+      "Đức Mẹ được đưa lên trời"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T028",
+    "level": "teenagers",
+    "question": "Trong Bữa Tiệc Ly, Chúa Giêsu ban điều răn mới nào?",
+    "options": [
+      "Hãy yêu thương nhau như Ngài đã yêu thương chúng ta",
+      "Trở thành người có quyền lực nhất",
+      "Tránh xa mọi người lạ",
+      "Chỉ yêu thương bạn bè mình"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T029",
+    "level": "teenagers",
+    "question": "Theo lời Chúa Giêsu dạy, khi giúp người đói khát và nghèo khó, chúng ta cũng đang phục vụ ai?",
+    "options": [
+      "Nhà vua",
+      "Giáo viên",
+      "Chính mình",
+      "Chúa Giêsu"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T030",
+    "level": "teenagers",
+    "question": "Trước khi lên trời, Chúa Giêsu trao cho các môn đệ sứ mạng gì?",
+    "options": [
+      "Thành lập quân đội",
+      "Làm cho muôn dân trở thành môn đệ",
+      "Tích lũy của cải",
+      "Che giấu Tin Mừng"
+    ],
+    "correctIndex": 1
+  }
+]

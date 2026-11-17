@@ -1,0 +1,362 @@
+[
+  {
+    "id": "C001",
+    "level": "children",
+    "question": "耶穌在哪個地方出生？",
+    "options": [
+      "納匝肋",
+      "白冷",
+      "羅馬",
+      "耶路撒冷"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "C002",
+    "level": "children",
+    "question": "耶穌在哪個地方長大？",
+    "options": [
+      "納匝肋",
+      "埃及",
+      "加納",
+      "白冷"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "C003",
+    "level": "children",
+    "question": "向聖母瑪利亞報喜的天使是誰？",
+    "options": [
+      "彌額爾",
+      "拉斐爾",
+      "伯多祿",
+      "加俾額爾"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "C004",
+    "level": "children",
+    "question": "賢士送給小耶穌什麼禮物？",
+    "options": [
+      "麵包、水果、魚",
+      "金、銀、銅",
+      "黃金、乳香、沒藥",
+      "衣服、鞋子、帽子"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "C005",
+    "level": "children",
+    "question": "耶穌幾歲時在聖殿與經師交談？",
+    "options": [
+      "8歲",
+      "12歲",
+      "20歲",
+      "30歲"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "C006",
+    "level": "children",
+    "question": "誰為耶穌施洗？",
+    "options": [
+      "若翰洗者",
+      "聖若瑟",
+      "伯多祿",
+      "保祿"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "C007",
+    "level": "children",
+    "question": "耶穌在哪條河接受洗禮？",
+    "options": [
+      "尼羅河",
+      "黃河",
+      "幼發拉河",
+      "約旦河"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "C008",
+    "level": "children",
+    "question": "耶穌在曠野禁食多少天？",
+    "options": [
+      "7天",
+      "12天",
+      "40天",
+      "100天"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "C009",
+    "level": "children",
+    "question": "耶穌在加納婚宴中行了什麼奇蹟？",
+    "options": [
+      "水變成酒",
+      "石頭變成餅",
+      "使風浪平靜",
+      "治好瞎子"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "C010",
+    "level": "children",
+    "question": "耶穌選了多少位宗徒？",
+    "options": [
+      "7位",
+      "12位",
+      "20位",
+      "40位"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "C011",
+    "level": "children",
+    "question": "耶穌用多少個餅和兩條魚餵飽五千人？",
+    "options": [
+      "2個",
+      "3個",
+      "7個",
+      "5個"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "C012",
+    "level": "children",
+    "question": "匝凱為了看見耶穌，做了什麼？",
+    "options": [
+      "坐船",
+      "躲進屋子",
+      "爬上樹",
+      "跑到山頂"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "C013",
+    "level": "children",
+    "question": "耶穌使哪位已死去四天的人復活？",
+    "options": [
+      "拉匝祿",
+      "若瑟",
+      "若翰",
+      "安德肋"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "C014",
+    "level": "children",
+    "question": "哪位宗徒曾跟著耶穌在水面上行走？",
+    "options": [
+      "多默",
+      "伯多祿",
+      "瑪竇",
+      "保祿"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "C015",
+    "level": "children",
+    "question": "耶穌進入耶路撒冷時騎著什麼？",
+    "options": [
+      "馬",
+      "駱駝",
+      "大象",
+      "驢駒"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "C016",
+    "level": "children",
+    "question": "最後晚餐時，耶穌為門徒做了什麼服務？",
+    "options": [
+      "洗衣服",
+      "煮魚",
+      "洗腳",
+      "打掃房間"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "C017",
+    "level": "children",
+    "question": "哪位宗徒出賣了耶穌？",
+    "options": [
+      "猶達斯",
+      "若望",
+      "安德肋",
+      "斐理伯"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "C018",
+    "level": "children",
+    "question": "伯多祿曾幾次否認耶穌？",
+    "options": [
+      "1次",
+      "3次",
+      "5次",
+      "7次"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "C019",
+    "level": "children",
+    "question": "耶穌被釘在十字架上的地方叫什麼？",
+    "options": [
+      "加納",
+      "白冷",
+      "納匝肋",
+      "哥耳哥達"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "C020",
+    "level": "children",
+    "question": "耶穌死後第幾天復活？",
+    "options": [
+      "第一天",
+      "第二天",
+      "第三天",
+      "第七天"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "C021",
+    "level": "children",
+    "question": "耶穌在十字架上，為傷害祂的人做了什麼？",
+    "options": [
+      "為他們祈求寬恕",
+      "責罵他們",
+      "處罰他們",
+      "嘲笑他們"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "C022",
+    "level": "children",
+    "question": "哪位宗徒起初不相信其他門徒說耶穌復活了？",
+    "options": [
+      "伯多祿",
+      "多默",
+      "瑪竇",
+      "雅各伯"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "C023",
+    "level": "children",
+    "question": "耶穌親自教導門徒哪一篇經文？",
+    "options": [
+      "聖母經",
+      "玫瑰經",
+      "信經",
+      "天主經"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "C024",
+    "level": "children",
+    "question": "天主教有幾件聖事？",
+    "options": [
+      "3件",
+      "5件",
+      "7件",
+      "10件"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "C025",
+    "level": "children",
+    "question": "哪一件聖事使我們成為教會的一員？",
+    "options": [
+      "聖洗聖事",
+      "婚姻聖事",
+      "聖秩聖事",
+      "病人傅油聖事"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "C026",
+    "level": "children",
+    "question": "天主教會通常在哪一天慶祝主日？",
+    "options": [
+      "星期一",
+      "星期日",
+      "星期三",
+      "星期五"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "C027",
+    "level": "children",
+    "question": "耶穌在海面上行走時，展現了什麼能力？",
+    "options": [
+      "飛上天空",
+      "在水面上行走",
+      "讓自己消失",
+      "變成一條魚"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "C028",
+    "level": "children",
+    "question": "亡羊的比喻中，牧人原本有多少隻羊？",
+    "options": [
+      "10隻",
+      "50隻",
+      "100隻",
+      "200隻"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "C029",
+    "level": "children",
+    "question": "浪子的比喻中，父親如何迎接回家的小兒子？",
+    "options": [
+      "歡喜地擁抱他",
+      "把他趕走",
+      "不和他說話",
+      "責罰他"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "C030",
+    "level": "children",
+    "question": "耶穌教導我們最重要的誡命是什麼？",
+    "options": [
+      "努力賺錢",
+      "愛天主及愛人如己",
+      "成為最強的人",
+      "擁有最多東西"
+    ],
+    "correctIndex": 1
+  }
+]

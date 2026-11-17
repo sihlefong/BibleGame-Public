@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Catholic Bible Quiz Game">
+  <title>天主教聖經闖關遊戲</title>
+  <rect width="32" height="32" rx="6" fill="#6B4423"/>
+  <rect x="6" y="5" width="20" height="23" rx="1" fill="#F8E8CC"/>
+  <rect x="6" y="5" width="2" height="23" fill="#B5894A"/>
+  <rect x="15" y="10" width="2.5" height="13" fill="#D4A017"/>
+  <rect x="12" y="13.5" width="8.5" height="2.5" fill="#D4A017"/>
+</svg>

@@ -1,0 +1,362 @@
+[
+  {
+    "id": "T001",
+    "level": "teenagers",
+    "question": "耶穌開始公開傳教時大約幾歲？",
+    "options": [
+      "18歲",
+      "20歲",
+      "25歲",
+      "30歲"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T002",
+    "level": "teenagers",
+    "question": "耶穌在曠野受誰的誘惑？",
+    "options": [
+      "宗徒",
+      "魔鬼",
+      "經師",
+      "羅馬士兵"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T003",
+    "level": "teenagers",
+    "question": "耶穌如何回應魔鬼要祂把石頭變成餅的誘惑？",
+    "options": [
+      "人只需要食物",
+      "人不必祈禱",
+      "人生活不只靠餅",
+      "人必須追求財富"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T004",
+    "level": "teenagers",
+    "question": "耶穌在傳教時，經常使用什麼方式教導人們？",
+    "options": [
+      "比喻故事",
+      "舞蹈表演",
+      "繪畫比賽",
+      "魔術表演"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T005",
+    "level": "teenagers",
+    "question": "耶穌稱門徒是地上的鹽和什麼？",
+    "options": [
+      "天上的雲",
+      "海中的魚",
+      "山上的樹",
+      "世界的光"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T006",
+    "level": "teenagers",
+    "question": "耶穌教導我們如何對待仇人？",
+    "options": [
+      "遠離所有人",
+      "愛仇人並為迫害者祈禱",
+      "計畫報復",
+      "以牙還牙"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T007",
+    "level": "teenagers",
+    "question": "耶穌說誰是有福的，因為他們要稱為天主的子女？",
+    "options": [
+      "富有的人",
+      "有權力的人",
+      "締造和平的人",
+      "最聰明的人"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T008",
+    "level": "teenagers",
+    "question": "天主聖三指的是什麼？",
+    "options": [
+      "聖父、聖子、聖神",
+      "耶穌、瑪利亞、若瑟",
+      "三位天使",
+      "三個天主"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T009",
+    "level": "teenagers",
+    "question": "天主教相信耶穌基督的身分是什麼？",
+    "options": [
+      "只是先知",
+      "只是老師",
+      "只是天使",
+      "真天主又真人"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T010",
+    "level": "teenagers",
+    "question": "哪一件聖事以特殊方式堅強聖洗的恩寵？",
+    "options": [
+      "婚姻",
+      "堅振",
+      "聖秩",
+      "病人傅油"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T011",
+    "level": "teenagers",
+    "question": "當我們犯錯時，天主希望我們怎麼做？",
+    "options": [
+      "隱瞞錯誤",
+      "責怪別人",
+      "真心悔改",
+      "繼續犯錯"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T012",
+    "level": "teenagers",
+    "question": "天主教信仰中，聖體是什麼？",
+    "options": [
+      "真實臨在的基督",
+      "普通食物",
+      "單純的紀念品",
+      "裝飾用品"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T013",
+    "level": "teenagers",
+    "question": "耶穌為門徒洗腳，主要教導什麼？",
+    "options": [
+      "如何保持乾淨",
+      "如何得到權力",
+      "如何成為主人",
+      "謙卑與服務"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T014",
+    "level": "teenagers",
+    "question": "別人在網路上霸凌同學時，哪種做法符合基督的教導？",
+    "options": [
+      "一起嘲笑",
+      "保護受害者並尋求協助",
+      "轉傳傷人的留言",
+      "假裝沒看見"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T015",
+    "level": "teenagers",
+    "question": "考試時朋友邀請你作弊，應該怎麼做？",
+    "options": [
+      "幫他作弊",
+      "假裝不知道",
+      "誠實地拒絕",
+      "一起作弊"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T016",
+    "level": "teenagers",
+    "question": "耶穌教導我們寬恕他人時，強調什麼？",
+    "options": [
+      "不應限制寬恕的次數",
+      "只寬恕一次",
+      "只寬恕家人",
+      "永遠不必寬恕"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T017",
+    "level": "teenagers",
+    "question": "善心的撒瑪黎雅人比喻告訴我們什麼？",
+    "options": [
+      "只幫助熟人",
+      "只照顧有錢人",
+      "只幫助同族的人",
+      "以慈悲對待有需要的人"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T018",
+    "level": "teenagers",
+    "question": "耶穌在曠野禁食四十天，主要是為了準備什麼？",
+    "options": [
+      "參加婚宴",
+      "開始公開傳教",
+      "舉辦比賽",
+      "尋找財寶"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T019",
+    "level": "teenagers",
+    "question": "哪一位宗徒被耶穌稱為磐石？",
+    "options": [
+      "若望",
+      "保祿",
+      "伯多祿",
+      "多默"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T020",
+    "level": "teenagers",
+    "question": "聖神降臨節主要紀念什麼？",
+    "options": [
+      "聖神降臨在門徒身上",
+      "耶穌誕生",
+      "耶穌受洗",
+      "聖母蒙召升天"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T021",
+    "level": "teenagers",
+    "question": "四部福音中不包含哪一本？",
+    "options": [
+      "瑪竇福音",
+      "馬爾谷福音",
+      "若望福音",
+      "宗徒大事錄"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T022",
+    "level": "teenagers",
+    "question": "「福音」的意思是什麼？",
+    "options": [
+      "法律",
+      "喜訊",
+      "歷史",
+      "詩歌"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T023",
+    "level": "teenagers",
+    "question": "玫瑰經主要幫助我們做什麼？",
+    "options": [
+      "預測未來",
+      "得到財富",
+      "默想基督生命的奧蹟",
+      "逃避責任"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T024",
+    "level": "teenagers",
+    "question": "耶穌教導我們，不要只在地上積蓄財寶，而要在哪裡積蓄財寶？",
+    "options": [
+      "天上",
+      "銀行",
+      "皇宮",
+      "山洞"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T025",
+    "level": "teenagers",
+    "question": "當朋友說自己沒有價值時，符合信仰的回應是什麼？",
+    "options": [
+      "贊同他的說法",
+      "比較他的成績",
+      "不理會他",
+      "陪伴他並肯定他的尊嚴"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T026",
+    "level": "teenagers",
+    "question": "四旬期主要幫助信友準備迎接哪個慶節？",
+    "options": [
+      "聖誕節",
+      "復活節",
+      "聖神降臨節",
+      "諸聖節"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "T027",
+    "level": "teenagers",
+    "question": "將臨期主要是預備什麼？",
+    "options": [
+      "聖神降臨",
+      "諸聖節",
+      "慶祝基督誕生並期待祂再來",
+      "聖母蒙召升天"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "T028",
+    "level": "teenagers",
+    "question": "耶穌在最後晚餐中賜下的新命令是什麼？",
+    "options": [
+      "像祂愛我們一樣彼此相愛",
+      "成為最有權力的人",
+      "避開所有陌生人",
+      "只愛自己的朋友"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "T029",
+    "level": "teenagers",
+    "question": "當我們幫助飢餓、貧困的人時，依照耶穌的教導，也是在服務誰？",
+    "options": [
+      "國王",
+      "老師",
+      "自己",
+      "耶穌"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "T030",
+    "level": "teenagers",
+    "question": "耶穌升天前交給門徒什麼使命？",
+    "options": [
+      "建立軍隊",
+      "使萬民成為門徒",
+      "累積財富",
+      "隱藏福音"
+    ],
+    "correctIndex": 1
+  }
+]
