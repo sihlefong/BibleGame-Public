@@ -126,5 +126,10 @@
   "image.alt_answered": "Hình minh hoạ câu hỏi",
   "image.missing": "Hình ảnh chưa có",
 
-  "error.speech_lang_missing": "Không tìm thấy giọng đọc {lang}, bạn vẫn có thể chơi."
+  "error.speech_lang_missing": "Không tìm thấy giọng đọc {lang}, bạn vẫn có thể chơi.",
+  "error.speech_ios_mute": "Nếu bấm 🔊 mà không nghe thấy, hãy kiểm tra công tắc tắt tiếng bên hông máy.",
+
+  "footer.copyright": "© 2026 Trò Chơi Vượt Thử Thách Kinh Thánh | DDVi Bảo lưu mọi quyền.",
+  "footer.purpose": "Trang web này được xây dựng nhằm mục đích giáo dục đức tin Công giáo. Chào mừng mọi người đến học hỏi và trải nghiệm.",
+  "footer.license": "Không được sao chép, chỉnh sửa hoặc sử dụng cho mục đích thương mại khi chưa được cho phép."
 }

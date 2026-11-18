@@ -126,5 +126,10 @@
   "image.alt_answered": "題目插畫",
   "image.missing": "圖片暫未提供",
 
-  "error.speech_lang_missing": "找不到 {lang} 的語音，仍可答題。"
+  "error.speech_lang_missing": "找不到 {lang} 的語音，仍可答題。",
+  "error.speech_ios_mute": "若按下🔊卻沒聲音，請確認手機側邊靜音鍵已關閉。",
+
+  "footer.copyright": "© 2026 聖經闖關遊戲｜DDVi 保留所有權利",
+  "footer.purpose": "本網站以天主教信仰教育為目的，歡迎學習與體驗。",
+  "footer.license": "未經授權，請勿擅自複製、修改或用於商業用途。"
 }
